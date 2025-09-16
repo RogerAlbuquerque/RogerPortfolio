@@ -10,9 +10,9 @@ import mysql from "./assets/images/Skills/mysql.png";
 import mongodb from "./assets/images/Skills/mongodb.png";
 import docker from "./assets/images/Skills/docker.png";
 import kubernetes from "./assets/images/Skills/kubernetes.png";
-import zbrush from "./assets/images/Skills/zbrush.png";
-import maya from "./assets/images/Skills/maya.png";
-import photoshop from "./assets/images/Skills/photoshop.png";
+// import zbrush from "./assets/images/Skills/zbrush.png";
+// import maya from "./assets/images/Skills/maya.png";
+// import photoshop from "./assets/images/Skills/photoshop.png";
 
 
 import services_logo1 from "./assets/images/Services/logo1.png";
@@ -116,7 +116,7 @@ export const content = {
             {
                 name: "Kubernetes",
                 logo: kubernetes,
-            }
+            },
             // {
             //     name: "Photoshop",
             //     logo: photoshop,
