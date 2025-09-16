@@ -113,26 +113,24 @@ export const content = {
                 name: "Docker",
                 logo: docker,
             },
-
             {
                 name: "Kubernetes",
                 logo: kubernetes,
-            },
-            
-            {
-                name: "Photoshop",
-                logo: photoshop,
-            },
-            {
-                name: "Zbrush",
-                para: "3D High poly modeling",
-                logo: zbrush,
-            },
-            {
-                name: "Autodesk Maya",
-                para: "3D modeling & Animation",
-                logo: maya,
-            },
+            }
+            // {
+            //     name: "Photoshop",
+            //     logo: photoshop,
+            // },
+            // {
+            //     name: "Zbrush",
+            //     para: "3D High poly modeling",
+            //     logo: zbrush,
+            // },
+            // {
+            //     name: "Autodesk Maya",
+            //     para: "3D modeling & Animation",
+            //     logo: maya,
+            // },
             
         ],
     },
