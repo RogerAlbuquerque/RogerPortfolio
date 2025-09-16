@@ -118,7 +118,7 @@ export const content = {
                 name: "Kubernetes",
                 logo: kubernetes,
             },
-            /*
+            
             {
                 name: "Photoshop",
                 logo: photoshop,
@@ -133,7 +133,7 @@ export const content = {
                 para: "3D modeling & Animation",
                 logo: maya,
             },
-            */
+            
         ],
     },
     services: {
