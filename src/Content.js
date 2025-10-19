@@ -161,15 +161,15 @@ export const content = {
         image: person_project,
         project_content: [
             {
-                title: "Gym Website",
+                title: "E-commerce-Sandbox",
                 image: project1,
             },
             {
-                title: "Social Media web",
+                title: "HairApp",
                 image: project2,
             },
             {
-                title: "Creative Website",
+                title: "WaiterApp",
                 image: project3,
             },
         ],
@@ -217,9 +217,9 @@ export const content = {
         subtitle: "GET IN TOUCH",
         social_media: [
             {
-                text: "rogeralbuquerque284@gmail.com",
+                text: "roger.albuquerque14@gmail.com",
                 icon: GrMail,
-                link: "mailto:rogeralbuquerque284@gmail.com",
+                link: "mailto:roger.albuquerque14@gmail.com",
             },
             {
                 text: "roger_dev4",
